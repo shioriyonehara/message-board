@@ -4,7 +4,8 @@
 
 // バリデーション
 .field_with_errors {
-//  width: 100%;
+  width: 100%;
   display: inline-block;
   border: 1px solid #f00;
+  border-radius: 4px;
 }
